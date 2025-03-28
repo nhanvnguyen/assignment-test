@@ -1,2 +1,6 @@
-# assignment-test
-assignment-test
+setup
+yarn 
+
+
+start
+yarn start
